@@ -1,6 +1,6 @@
 # 👩‍💻 Fayrouz Ahmed  
 
-📍 Egypt | 📧 fayrouzahmedd23@gmail.com | 📱 +20 12 7760 0611  
+📍 Egypt | 📧 fayrouzahmedd23@gmail.com |
 🔗 [LinkedIn](https://www.linkedin.com/in/fayrouz-ahmed-088596229) | [GitHub](https://github.com/fayrouzahmedd)  
 
 ---
