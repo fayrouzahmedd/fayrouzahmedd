@@ -55,6 +55,11 @@ I love exploring the intersection of **AI research and practical applications**,
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
 
 ---
+## 📌 Currently Exploring  
+- Generative AI & LLMs (Hugging Face Transformers, LangChain)  
+- MLOps tools (MLflow, Kubeflow, Docker, Airflow)  
+- Cloud Platforms (AWS, GCP)  
+---
 
 ## 📊 GitHub Stats  
 
